@@ -1,5 +1,4 @@
-# images
+# photography
 
-![image 1](https://github.com/saptarshisarkar20/images/blob/main/select2.jpg)
+![starry sky](https://github.com/saptarshisarkar20/images/blob/main/IMG_20210713_001125.jpg)
 
-![image 2](https://github.com/saptarshisarkar20/images/blob/main/select.jpg)
